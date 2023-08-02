@@ -3,4 +3,4 @@ Celem projektu jest stworzenie modelu uczenia maszynowego, który będzie przewi
 
 Projekt z wykorzystaniem klasycznego Machine Learning został opracowany z użyciem  środowiska https://colab.research.google.com/
 
-Narzędzia użyte w tym projekcie: Python, biblioteki: sklearn, numpy, pandas, matplotlib, seaborn, sqlite3
+Narzędzia, biblioteki użyte w tym projekcie: Python, biblioteki: sklearn, pandas, matplotlib, seaborn, sqlite3
