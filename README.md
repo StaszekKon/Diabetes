@@ -1,6 +1,5 @@
 # AI
-Celem projektu jest stworzenie modelu uczenia maszynowego, który będzie przewidywał wystąpienie choroby cukrzycowej u pacjentek z danych zawartych w zbiorze Pima Indians Diabetes Database.
+The aim of the project is to create a machine learning model that will predict the occurrence of diabetes in patients from the data contained in the Pima Indians Diabetes Database.
+A project using classical Machine Learning was created based on the environment https://colab.research.google.com/ - Jupyter Notebook
 
-Projekt z wykorzystaniem klasycznego Machine Learning został opracowany z użyciem  środowiska https://colab.research.google.com/ - Jupyter Notebook
-
-Narzędzia, biblioteki użyte w tym projekcie: Python, biblioteki: sklearn, pandas, matplotlib, seaborn, sqlite3
+Tools, libraries used for this project: Python, libraries: sklearn, pandas, matplotlib, seaborn, sqlite3
